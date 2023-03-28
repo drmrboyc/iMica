@@ -47,13 +47,13 @@
             this.chkScanVolOver400k = new System.Windows.Forms.CheckBox();
             this.chkScanPriceUnder20 = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.treeView1 = new System.Windows.Forms.TreeView();
+            this.label2 = new System.Windows.Forms.Label();
             this.grpScanType = new System.Windows.Forms.GroupBox();
             this.chkTestMode = new System.Windows.Forms.CheckBox();
             this.rdoScanAllInfo = new System.Windows.Forms.RadioButton();
             this.rdoScanBaseInfo = new System.Windows.Forms.RadioButton();
             this.rdoScanAllFilters = new System.Windows.Forms.RadioButton();
-            this.treeView1 = new System.Windows.Forms.TreeView();
-            this.label2 = new System.Windows.Forms.Label();
             this.lblFilterUpdate = new System.Windows.Forms.Label();
             this.prgFilterUpdate = new System.Windows.Forms.ProgressBar();
             this.grpProgress = new System.Windows.Forms.GroupBox();
@@ -125,7 +125,7 @@
             this.grpExclude.Controls.Add(this.chkExcludeIndustry);
             this.grpExclude.Controls.Add(this.chkExcludeSector);
             this.grpExclude.Controls.Add(this.chkExcludePrice);
-            this.grpExclude.Location = new System.Drawing.Point(180, 401);
+            this.grpExclude.Location = new System.Drawing.Point(189, 11);
             this.grpExclude.Name = "grpExclude";
             this.grpExclude.Size = new System.Drawing.Size(182, 54);
             this.grpExclude.TabIndex = 5;
@@ -273,6 +273,21 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Filters && Options";
             // 
+            // treeView1
+            // 
+            this.treeView1.Location = new System.Drawing.Point(15, 76);
+            this.treeView1.Name = "treeView1";
+            this.treeView1.Size = new System.Drawing.Size(356, 128);
+            this.treeView1.TabIndex = 15;
+            // 
+            // label2
+            // 
+            this.label2.Location = new System.Drawing.Point(12, 57);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(199, 16);
+            this.label2.TabIndex = 16;
+            this.label2.Text = "Filters && Options in Database";
+            // 
             // grpScanType
             // 
             this.grpScanType.Controls.Add(this.chkTestMode);
@@ -329,21 +344,6 @@
             this.rdoScanAllFilters.TabIndex = 13;
             this.rdoScanAllFilters.Text = "All Filters -> Stocks ( 90 mins )";
             this.rdoScanAllFilters.UseVisualStyleBackColor = true;
-            // 
-            // treeView1
-            // 
-            this.treeView1.Location = new System.Drawing.Point(15, 76);
-            this.treeView1.Name = "treeView1";
-            this.treeView1.Size = new System.Drawing.Size(356, 128);
-            this.treeView1.TabIndex = 15;
-            // 
-            // label2
-            // 
-            this.label2.Location = new System.Drawing.Point(12, 57);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(199, 16);
-            this.label2.TabIndex = 16;
-            this.label2.Text = "Filters && Options in Database";
             // 
             // lblFilterUpdate
             // 
@@ -449,6 +449,7 @@
             this.groupBox2.Controls.Add(this.txtNextScan);
             this.groupBox2.Controls.Add(this.chkAutoScan);
             this.groupBox2.Controls.Add(this.lblNextScan);
+            this.groupBox2.Controls.Add(this.grpExclude);
             this.groupBox2.Location = new System.Drawing.Point(376, 498);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(387, 103);
@@ -509,18 +510,18 @@
             // 
             // label3
             // 
-            this.label3.Font = new System.Drawing.Font("Minbus", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("OCR A Extended", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Green;
-            this.label3.Location = new System.Drawing.Point(206, 2);
+            this.label3.Location = new System.Drawing.Point(206, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(570, 40);
+            this.label3.Size = new System.Drawing.Size(570, 33);
             this.label3.TabIndex = 28;
             this.label3.Text = "Intelligent Market Investment";
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // label4
             // 
-            this.label4.Font = new System.Drawing.Font("Minbus", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("OCR A Extended", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Green;
             this.label4.Location = new System.Drawing.Point(242, 39);
             this.label4.Name = "label4";
@@ -545,7 +546,6 @@
             this.Controls.Add(this.grpScanType);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.grpBaseFilterSettings);
-            this.Controls.Add(this.grpExclude);
             this.Controls.Add(this.label4);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));

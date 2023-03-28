@@ -453,8 +453,10 @@ namespace Finviz_Scraper
             List<FilterOptionScanResult> filterOptionResults = DBFactory.RetrieveFilterOptionScanResults();
             List<ScanRecord> scanRecords = DBFactory.RetrieveScanRecords();
 
+            if ( scanRecords.Count == 0 )
+
             lblTotalFilterResults.Text = "Total Filter Scan Records: " + filterOptionResults.Count;
-            lblLastRecordDate.Text = "Last Record Date: " + scanRecords.Last().StartTime.ToString();
+            lblLastRecordDate.Text = "Last Record Date: " + ( scanRecords.Count == 0 ? "No Scan Records Found" : scanRecords.Last().StartTime.ToString() );
 
             //DBFactory.RetrieveSmallScanResults(out List<SmallScanResult> smallScanResults);
         }

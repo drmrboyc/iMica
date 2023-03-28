@@ -131,3 +131,40 @@ C:\Users\Kenny\source\repos\Finviz Scraper\Finviz Scraper\obj\Release\iMICA.exe.
 C:\Users\Kenny\source\repos\Finviz Scraper\Finviz Scraper\obj\Release\iMICA.exe
 C:\Users\Kenny\source\repos\Finviz Scraper\Finviz Scraper\obj\Release\iMICA.pdb
 C:\Users\Kenny\source\repos\Finviz Scraper\Finviz Scraper\obj\Release\Finviz Scraper.csprojAssemblyReference.cache
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\iMICA.exe.config
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\iMICA.exe
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\iMICA.pdb
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\CommandLine.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\FSharp.Core.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\HtmlAgilityPack.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\LiteDB.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\ScrapySharp.Core.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\ScrapySharp.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\CommandLine.xml
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\FSharp.Core.xml
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\HtmlAgilityPack.xml
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\LiteDB.xml
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz Scraper.csproj.AssemblyReference.cache
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz Scraper.csproj.SuggestedBindingRedirects.cache
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz_Scraper.FormMain.resources
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz_Scraper.Properties.Resources.resources
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz Scraper.csproj.GenerateResource.cache
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz Scraper.csproj.CoreCompileInputs.cache
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\Finviz Scraper.csproj.CopyComplete
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\iMICA.exe
+C:\Users\HiKennyDaveGottlieb\Documents\GitHub\iMica\Finviz Scraper\obj\Release\iMICA.pdb
