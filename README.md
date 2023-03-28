@@ -11,9 +11,9 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 
 - **Curation** - iMica sifts through gigabytes of numerical data to find the values commonly shared by stocks just before they perform strong price movements.
 
-- **Prediction** - Using basic models iMica predicts future stock movements based on a large dataset. The larger the dataset the more accurate the prediction, simple indeed.
+- **Prediction** - Using basic models (and a mountain of data) iMica predicts future stock movements. The larger the dataset the more accurate the prediction, simple indeed.
 
-- **Automation** - iMica has a built in scheduler that will scan and store data for you. *Depending on your machine and internet connection, a full market scrape can easily take over an hour.*
+- **Automation** - iMica has a built in scheduler that will scan and store data at your appointed time. *Depending on your machine and internet connection, a full market scrape can easily take over an hour.*
 
 ------------
 
@@ -61,4 +61,8 @@ If you want to access modify or access the database directly I recommend using [
 ------------
 
 ### Code Documentation
+
+- Built in Visual Studio 2022
+- Target .Net Framework - 4.8
+
 [TODO]: *Code structure explanation.*
