@@ -24,13 +24,13 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 ------------
 
 ### Basic Use
-[TODO]: *Code structure explanation.*
+[TODO]: *Step by step instruction for basic usage.*
 
 ------------
 
 ### Automation
 
-[TODO]: *Instructions to create a schedule.*
+[TODO]: *How to create a schedule (include best times to perform the different types of scans).*
 
 ------------
 
