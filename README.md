@@ -12,7 +12,7 @@ A FinViz.com scraper / data wareehouse. iMica performs scheduled scans and store
 Main Window
 =============
 
-![](https://github.com/drmrboyc/iMica-finviz-scraper/blob/main/iMica-img1.png)
+![](https://github.com/drmrboyc/iMica/blob/main/iMica-img1.png)
 
 
 **Documentation**
