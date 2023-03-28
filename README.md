@@ -1,7 +1,7 @@
 iMica *
 =============
 
-#### * I<SUP>ntelligent</SUP> M<SUP>arket</SUP> I<SUP>nvestment</SUP> C<SUP>urating</SUP> A<SUP>utomatron</SUP>
+### * I<SUP>ntelligent</SUP> M<SUP>arket</SUP> I<SUP>nvestment</SUP> C<SUP>urating</SUP> A<SUP>utomatron</SUP>
 
 A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and stores information on each FinViz Filter & Option for over a thousand stocks on the US Markets.
 
@@ -17,7 +17,7 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 
 ------------
 
-###Main Window
+### Main Window
 
 ![](https://github.com/drmrboyc/iMica/blob/main/iMica-img1.png)
 
@@ -28,7 +28,7 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 
 ------------
 
-###Automation
+### Automation
 
 [TODO]: *Instructions to create a schedule.*
 
@@ -42,7 +42,7 @@ I chose this backend specifically for mobility and lightning fast transactions w
 
 - The database file is called **FS_DataStr.db**. Duplicate copies of the db file can be found in each of the bin -> Debug / Release directories. A clean version of the db called **FS_DataStr-CLEAN.db** is located in the project's root.
 
-#####LiteDB Studio
+#### LiteDB Studio
 
 If you want to access modify or access the database directly I recommend using [LiteDB Studio](https://github.com/mbdavid/LiteDB.Studio), written by the LiteDB team.
 
