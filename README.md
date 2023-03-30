@@ -7,11 +7,11 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 
 ### Why?
 
-- **Scanning** - iMica scans and stores over a thousand unique attributes for each commodity stock on a daily basis.
+- **Scanning** - iMica scans and stores over a thousand unique attributes for over a thousand stocks (recommended on a daily basis).
 
-- **Curation** - iMica sifts through gigabytes of numerical data to find the values commonly shared by stocks just before they perform strong price movements.
+- **Curation** - iMica sifts through gigabytes of quantifiable attribute data to find deltas, scenarios, and values commonly shared by stocks just prior to uncommon price movements.
 
-- **Prediction** - Using basic models (and a mountain of data) iMica predicts future stock movements. The larger the dataset the more accurate the prediction, simple indeed.
+- **Prediction** - Using basic models (and its mountain of data) iMica predicts future stock movements. The larger the dataset the more accurate the prediction, simple indeed.
 
 - **Automation** - iMica has a built in scheduler that will scan and store data at your appointed time. *Depending on your machine and internet connection, a full market scrape can easily take over an hour.*
 
@@ -38,13 +38,13 @@ A FinViz.com data scraper, aggregator and warehouse. iMica performs scans and st
 
 iMica uses [LiteDB](https://www.litedb.org), an embedded NoSQL database made for .NET. 
 
-I chose this backend specifically for mobility and lightning fast transactions while still thread-safe and written in C# managed code. This is a great mobile db usable in a multitude of scenarios. If you are not familiar with it I highly recommend checking it out and adding it to your arsenal of back-end tools.
+I chose this backend specifically for mobility and lightning fast transactions while still being thread-safe. LiteDB is written in C# managed code and is a great mobile db usable in a multitude of scenarios. If you are not familiar with it I highly recommend checking it out and adding it to your arsenal of back-end tools.
 
-- The database file is called **FS_DataStr.db**. Duplicate copies of the db file can be found in each of the bin -> Debug / Release directories. A clean version of the db called **FS_DataStr-CLEAN.db** is located in the project's root.
+- The database file is called **FS_DataStr.db**. Duplicate copies of the db file can be found in each of the bin -> Debug & Release directories. A clean version of the db called **FS_DataStr-CLEAN.db** is located in the project's root.
 
 #### LiteDB Studio
 
-If you want to access modify or access the database directly I recommend using [LiteDB Studio](https://github.com/mbdavid/LiteDB.Studio), written by the LiteDB team.
+If you want to modify or access the database directly I recommend using [LiteDB Studio](https://github.com/mbdavid/LiteDB.Studio), written by the LiteDB team.
 
 ------------
 
